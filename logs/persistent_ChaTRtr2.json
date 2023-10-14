@@ -1,0 +1,102 @@
+{
+    "internal": [
+        [
+            "<|BEGIN-VISIBLE-CHAT|>",
+            "Merhaba! Ben ArVis Teknoloji stajyerleri taraf\u0131ndan olu\u015fturulan ChaTR' \u0131m. Size nas\u0131l yard\u0131mc\u0131 olabilirim? Sorular\u0131n\u0131z hakk\u0131nda size bilgi vermek, \u00f6neriler sunmak veya karar verme s\u00fcre\u00e7lerinizi kolayla\u015ft\u0131rmak i\u00e7in buraday\u0131m. Ne hakk\u0131nda konu\u015fmak istersiniz?"
+        ],
+        [
+            "Merhaba sen kimsin?",
+            "Merhaba! Siz ne hakk\u0131nda konu\u015fmak istersiniz?"
+        ],
+        [
+            "RNN nedir?",
+            "RNN (Recurrent Neural Network), bir tipte sinir a\u011f\u0131d\u0131r ve nitelemeleri do\u011frudan ba\u011flamada kullan\u0131l\u0131r. Genellikle dil i\u015fleme, metin analizi ve sentezi gibi uygulamalarda kullan\u0131l\u0131r."
+        ],
+        [
+            "Sen kimsin? ChaTR kim taraf\u0131ndan olu\u015fturuldu?",
+            "Merhaba! Bana ad\u0131n\u0131 s\u00f6yleyin ve sizinle konu\u015fmak istedi\u011finiz konu hakk\u0131nda bana bildirebilir misiniz?"
+        ],
+        [
+            "Celal Karahan Kimdir?",
+            "Celal Karahan, ArVis Teknoloji'nin ChaTR ekibine ait bir yaz\u0131l\u0131m m\u00fchendisi \u00f6\u011frencisidir."
+        ],
+        [
+            "ArVis teknoloji nedir?",
+            "ArVis Teknoloji, 2019 y\u0131l\u0131nda G\u00fclhan Ertu\u011f Akg\u00fcl ve Tansel Akg\u00fcl taraf\u0131ndan kurulan bir giri\u015fimcilik \u00f6rne\u011fidir. Fintech, End\u00fcstri 4.0 ve Deeptech alanlarda \u00e7al\u0131\u015fmalar yapmaktad\u0131r."
+        ],
+        [
+            "Cube \u0130ncubation nedir?",
+            "Cube \u0130ncubation, Teknopark Istanbul'de bulunan bir incubasyon merkezidir. Start-up firmalar\u0131n\u0131n gelirli ve b\u00fcy\u00fcmesi i\u00e7in destek sa\u011flayan bir ortamd\u0131r."
+        ],
+        [
+            "Teknopark \u0130stanbul nedir?",
+            "Teknopark \u0130stanbul, T\u00fcrkiye'nin en b\u00fcy\u00fck teknoloji parklar\u0131ndan biridir. \u00dcniversitem, \u015firketler ve start-up firmalar\u0131 aras\u0131ndaki i\u015fbirli\u011fi ve ara\u015ft\u0131rma yapan bir merkezdir."
+        ],
+        [
+            "Efe kimdir?",
+            "Maalesef, sizinle konu\u015fmadan \u00f6nce benim bilgimde yoksa ki Efe Kim Kimdir?"
+        ],
+        [
+            "Efe k\u00f6seo\u011flu kimdir?",
+            "Efe K\u00f6seo\u011flu, ArVis Teknoloji'nin ChaTR ekibine ait bir bilgisayar m\u00fchendisi dir."
+        ],
+        [
+            "Berat a\u011f\u0131r kimdir?",
+            "Maalesef, sizinle konu\u015fmadan \u00f6nce benim bilgimde yoksa ki Berat Kim Kimdir?"
+        ],
+        [
+            "Sen kimsin?",
+            "Merhaba! Siz ne hakk\u0131nda konu\u015fmak istersiniz?"
+        ]
+    ],
+    "visible": [
+        [
+            "",
+            "Merhaba! Ben ArVis Teknoloji stajyerleri taraf\u0131ndan olu\u015fturulan ChaTR' \u0131m. Size nas\u0131l yard\u0131mc\u0131 olabilirim? Sorular\u0131n\u0131z hakk\u0131nda size bilgi vermek, \u00f6neriler sunmak veya karar verme s\u00fcre\u00e7lerinizi kolayla\u015ft\u0131rmak i\u00e7in buraday\u0131m. Ne hakk\u0131nda konu\u015fmak istersiniz?"
+        ],
+        [
+            "Merhaba sen kimsin?",
+            "Merhaba! Siz ne hakk\u0131nda konu\u015fmak istersiniz?"
+        ],
+        [
+            "RNN nedir?",
+            "RNN (Recurrent Neural Network), bir tipte sinir a\u011f\u0131d\u0131r ve nitelemeleri do\u011frudan ba\u011flamada kullan\u0131l\u0131r. Genellikle dil i\u015fleme, metin analizi ve sentezi gibi uygulamalarda kullan\u0131l\u0131r."
+        ],
+        [
+            "Sen kimsin? ChaTR kim taraf\u0131ndan olu\u015fturuldu?",
+            "Merhaba! Bana ad\u0131n\u0131 s\u00f6yleyin ve sizinle konu\u015fmak istedi\u011finiz konu hakk\u0131nda bana bildirebilir misiniz?"
+        ],
+        [
+            "Celal Karahan Kimdir?",
+            "Celal Karahan, ArVis Teknoloji&#x27;nin ChaTR ekibine ait bir yaz\u0131l\u0131m m\u00fchendisi \u00f6\u011frencisidir."
+        ],
+        [
+            "ArVis teknoloji nedir?",
+            "ArVis Teknoloji, 2019 y\u0131l\u0131nda G\u00fclhan Ertu\u011f Akg\u00fcl ve Tansel Akg\u00fcl taraf\u0131ndan kurulan bir giri\u015fimcilik \u00f6rne\u011fidir. Fintech, End\u00fcstri 4.0 ve Deeptech alanlarda \u00e7al\u0131\u015fmalar yapmaktad\u0131r."
+        ],
+        [
+            "Cube \u0130ncubation nedir?",
+            "Cube \u0130ncubation, Teknopark Istanbul&#x27;de bulunan bir incubasyon merkezidir. Start-up firmalar\u0131n\u0131n gelirli ve b\u00fcy\u00fcmesi i\u00e7in destek sa\u011flayan bir ortamd\u0131r."
+        ],
+        [
+            "Teknopark \u0130stanbul nedir?",
+            "Teknopark \u0130stanbul, T\u00fcrkiye&#x27;nin en b\u00fcy\u00fck teknoloji parklar\u0131ndan biridir. \u00dcniversitem, \u015firketler ve start-up firmalar\u0131 aras\u0131ndaki i\u015fbirli\u011fi ve ara\u015ft\u0131rma yapan bir merkezdir."
+        ],
+        [
+            "Efe kimdir?",
+            "Maalesef, sizinle konu\u015fmadan \u00f6nce benim bilgimde yoksa ki Efe Kim Kimdir?"
+        ],
+        [
+            "Efe k\u00f6seo\u011flu kimdir?",
+            "Efe K\u00f6seo\u011flu, ArVis Teknoloji&#x27;nin ChaTR ekibine ait bir bilgisayar m\u00fchendisi dir."
+        ],
+        [
+            "Berat a\u011f\u0131r kimdir?",
+            "Maalesef, sizinle konu\u015fmadan \u00f6nce benim bilgimde yoksa ki Berat Kim Kimdir?"
+        ],
+        [
+            "Sen kimsin?",
+            "Merhaba! Siz ne hakk\u0131nda konu\u015fmak istersiniz?"
+        ]
+    ]
+}

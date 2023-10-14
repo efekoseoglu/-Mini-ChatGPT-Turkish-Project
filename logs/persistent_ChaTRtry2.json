@@ -1,0 +1,54 @@
+{
+    "internal": [
+        [
+            "<|BEGIN-VISIBLE-CHAT|>",
+            "Merhaba! Ben ArVis Teknoloji stajyerleri taraf\u0131ndan olu\u015fturulan ChaTR' \u0131m. Size nas\u0131l yard\u0131mc\u0131 olabilirim? Sorular\u0131n\u0131z hakk\u0131nda size bilgi vermek, \u00f6neriler sunmak veya karar verme s\u00fcre\u00e7lerinizi kolayla\u015ft\u0131rmak i\u00e7in buraday\u0131m. Ne hakk\u0131nda konu\u015fmak istersiniz?"
+        ],
+        [
+            "Nabaysun ravza",
+            "Siz nerede?"
+        ],
+        [
+            "Berat A\u011f\u0131r kimdir?",
+            "Berat A\u011f\u0131r bir giri\u015fimciden mi?"
+        ],
+        [
+            "Eda kimdir?",
+            "Eda, Arvis Techno..."
+        ],
+        [
+            "\u015eule kimdir?",
+            "\u015eule, Arvis Techno..."
+        ],
+        [
+            "Celal Karahan kimdir?",
+            "Ce"
+        ]
+    ],
+    "visible": [
+        [
+            "",
+            "Merhaba! Ben ArVis Teknoloji stajyerleri taraf\u0131ndan olu\u015fturulan ChaTR' \u0131m. Size nas\u0131l yard\u0131mc\u0131 olabilirim? Sorular\u0131n\u0131z hakk\u0131nda size bilgi vermek, \u00f6neriler sunmak veya karar verme s\u00fcre\u00e7lerinizi kolayla\u015ft\u0131rmak i\u00e7in buraday\u0131m. Ne hakk\u0131nda konu\u015fmak istersiniz?"
+        ],
+        [
+            "Nabaysun ravza",
+            "Siz nerede?"
+        ],
+        [
+            "Berat A\u011f\u0131r kimdir?",
+            "Berat A\u011f\u0131r bir giri\u015fimciden mi?"
+        ],
+        [
+            "Eda kimdir?",
+            "Eda, Arvis Techno..."
+        ],
+        [
+            "\u015eule kimdir?",
+            "\u015eule, Arvis Techno..."
+        ],
+        [
+            "Celal Karahan kimdir?",
+            "Ce"
+        ]
+    ]
+}

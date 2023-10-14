@@ -1,0 +1,38 @@
+{
+    "internal": [
+        [
+            "<|BEGIN-VISIBLE-CHAT|>",
+            "Merhaba! Ben ArVis Teknoloji stajyerleri taraf\u0131ndan olu\u015fturulan ChaTR' \u0131m. Size nas\u0131l yard\u0131mc\u0131 olabilirim? Sorular\u0131n\u0131z hakk\u0131nda size bilgi vermek, \u00f6neriler sunmak veya karar verme s\u00fcre\u00e7lerinizi kolayla\u015ft\u0131rmak i\u00e7in buraday\u0131m. Ne hakk\u0131nda konu\u015fmak istersiniz?"
+        ],
+        [
+            "",
+            "Merhaba! Ben ArVis Teknoloji stajyerleri taraf\u0131ndan olu\u015fturulan ChaTR' \u0131m. Size nas\u0131l yard\u0131mc\u0131 olabilirim? Sorular\u0131n\u0131z hakk\u0131nda bilgi vermek, \u00f6neriler sunmak veya karar verme s\u00fcre\u00e7lerinizi kolayla\u015ft\u0131rmak i\u00e7in buraday\u0131m. Ne hakk\u0131nda konu\u015fmak istedi\u011finize de\u011ferlendirebiliriz."
+        ],
+        [
+            "Celal Karahan kimdir?",
+            "Celal Karahan, ChaTR ekibinin yaz\u0131l\u0131m m\u00fchendisli\u011fi yetkili memberidir. Programlama, veritaban\u0131 geli\u015ftirme ve sistem y\u00f6netimi konular\u0131nda deneyime sahiptir. ChaTR'\u0131n teknoloji geli\u015ftirme ve Ar-Ge \u00e7al\u0131\u015fmalar\u0131 i\u00e7in kulland\u0131\u011f\u0131 uygulamalar\u0131n geli\u015ftirilmesinde ve test edilmede rolleri g\u00f6sterd\u00fc."
+        ],
+        [
+            "Nazl\u0131 Sevindik \u00d6renkaya kimdir?",
+            "Nazl\u0131 Sevindik \u00d6renkaya, ChaTR ekibinin bir mant\u0131ksal yap\u0131 tasar\u0131mci'disi olarak g\u00f6revserliktedir. \u00d6rneklemcilere ve modellerin geli\u015ftirilmesinde ve Ar-Ge \u00e7al\u0131\u015fmalar\u0131 i\u00e7in kullan\u0131lan analiz sistemlerinin geli\u015ftirildi\u011finde rol oynar."
+        ]
+    ],
+    "visible": [
+        [
+            "",
+            "Merhaba! Ben ArVis Teknoloji stajyerleri taraf\u0131ndan olu\u015fturulan ChaTR' \u0131m. Size nas\u0131l yard\u0131mc\u0131 olabilirim? Sorular\u0131n\u0131z hakk\u0131nda size bilgi vermek, \u00f6neriler sunmak veya karar verme s\u00fcre\u00e7lerinizi kolayla\u015ft\u0131rmak i\u00e7in buraday\u0131m. Ne hakk\u0131nda konu\u015fmak istersiniz?"
+        ],
+        [
+            "",
+            "Merhaba! Ben ArVis Teknoloji stajyerleri taraf\u0131ndan olu\u015fturulan ChaTR&#x27; \u0131m. Size nas\u0131l yard\u0131mc\u0131 olabilirim? Sorular\u0131n\u0131z hakk\u0131nda bilgi vermek, \u00f6neriler sunmak veya karar verme s\u00fcre\u00e7lerinizi kolayla\u015ft\u0131rmak i\u00e7in buraday\u0131m. Ne hakk\u0131nda konu\u015fmak istedi\u011finize de\u011ferlendirebiliriz."
+        ],
+        [
+            "Celal Karahan kimdir?",
+            "Celal Karahan, ChaTR ekibinin yaz\u0131l\u0131m m\u00fchendisli\u011fi yetkili memberidir. Programlama, veritaban\u0131 geli\u015ftirme ve sistem y\u00f6netimi konular\u0131nda deneyime sahiptir. ChaTR&#x27;\u0131n teknoloji geli\u015ftirme ve Ar-Ge \u00e7al\u0131\u015fmalar\u0131 i\u00e7in kulland\u0131\u011f\u0131 uygulamalar\u0131n geli\u015ftirilmesinde ve test edilmede rolleri g\u00f6sterd\u00fc."
+        ],
+        [
+            "Nazl\u0131 Sevindik \u00d6renkaya kimdir?",
+            "Nazl\u0131 Sevindik \u00d6renkaya, ChaTR ekibinin bir mant\u0131ksal yap\u0131 tasar\u0131mci&#x27;disi olarak g\u00f6revserliktedir. \u00d6rneklemcilere ve modellerin geli\u015ftirilmesinde ve Ar-Ge \u00e7al\u0131\u015fmalar\u0131 i\u00e7in kullan\u0131lan analiz sistemlerinin geli\u015ftirildi\u011finde rol oynar."
+        ]
+    ]
+}
